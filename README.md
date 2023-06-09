@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepak-singh-jethi
+- 👋 Hi, I’m @DEEPAK
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning  MySQL, java ,HTML,CSS,JAVA SCRIPT,REACT,BOOTSTRAP,node.js
 - 💞️ I’m looking to collaborate on Projects based on full stack 
