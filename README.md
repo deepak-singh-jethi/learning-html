@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning  MySQL, java ,HTML,CSS,JAVA SCRIPT,REACT,BOOTSTRAP,node.js
 - 💞️ I’m looking to collaborate on Projects based on full stack 
-- 📫 How to reach me deepujethi@yahoo.co
+- 📫 How to reach me deepujethi@yahoo.com
 
 <!---
 deepak-singh-jethi/deepak-singh-jethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
